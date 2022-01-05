@@ -15,7 +15,7 @@
       <SSIS:Project SSIS:ProtectionLevel="EncryptSensitiveWithUserKey" xmlns:SSIS="www.microsoft.com/SqlServer/SSIS">
         <SSIS:Properties>
           <SSIS:Property SSIS:Name="ID">{35c9fdaa-8dda-4ac4-8677-3175a305d4c5}</SSIS:Property>
-          <SSIS:Property SSIS:Name="Name">LoadDSDB</SSIS:Property>
+          <SSIS:Property SSIS:Name="Name">ExtractData</SSIS:Property>
           <SSIS:Property SSIS:Name="VersionMajor">1</SSIS:Property>
           <SSIS:Property SSIS:Name="VersionMinor">0</SSIS:Property>
           <SSIS:Property SSIS:Name="VersionBuild">0</SSIS:Property>
@@ -26,7 +26,7 @@
           <SSIS:Property SSIS:Name="CreatorComputerName">USE1-BISQL03</SSIS:Property>
           <SSIS:Property SSIS:Name="Description">
           </SSIS:Property>
-          <SSIS:Property SSIS:Name="PasswordVerifier" SSIS:Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAJP85vCsgP0WU7MPJLkV2ZAAAAAACAAAAAAADZgAAwAAAABAAAAD5IIJHNdKDBkTOJCgMvXfDAAAAAASAAACgAAAAEAAAACET0v63pnAb1zQJHHm7ie+IAAAAV4A7Hu6KtnRtTEiS6Q1IshpUOHwbD9vhDHoIiLl/tVfDWgb1Q/ORtRkEvAGJx5NnB87hX5+efrrOQ9vG5u4LKiEyGYO17FuI5ez7jV2xmOaThxvOpYTk6tSiZvVt1yDrsfRSXY8SVp/h73hvyRi0GYNomqHgGoXTPRwJ8l8+IsPTT+oJz/QW0RQAAAAA/ICszVgeamAZqgNFbDJnwo7a2Q==</SSIS:Property>
+          <SSIS:Property SSIS:Name="PasswordVerifier" SSIS:Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAJP85vCsgP0WU7MPJLkV2ZAAAAAACAAAAAAADZgAAwAAAABAAAAB49xuXRgCkN5AnA4siEDovAAAAAASAAACgAAAAEAAAAIpzd4sr7LeGN4fZGSIXpbqIAAAAox9W5K3WOoi27UDas1cn5UVjz5jVgikhPWOYk2xO9HuWJSmX1XRPROM/VktL942Uqa/HwJ/tlU2CTF22WwHYXlGu2mSil7OF0N6eYKWdyS5MHhXggHDSv2ugUAXYZ8fW6R2yQYfziUEFd0BRyJoEKpKJg9WVmpsk3IcPWRAQRQWKMGxKRqVkqRQAAABMWpyP15pOjaPdp8EdbXs4gLgxJA==</SSIS:Property>
           <SSIS:Property SSIS:Name="FormatVersion">1</SSIS:Property>
         </SSIS:Properties>
         <SSIS:Packages>
