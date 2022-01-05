@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1433
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "ExtractData", "ExtractData\ExtractData.dtproj", "{564477FF-C7BC-4DF1-BBA1-FC50D25B5810}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{564477FF-C7BC-4DF1-BBA1-FC50D25B5810}.Development|Default.ActiveCfg = Development
+		{564477FF-C7BC-4DF1-BBA1-FC50D25B5810}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0D248D44-EC0E-4F37-8BF2-50C865F50C10}
+	EndGlobalSection
+EndGlobal
